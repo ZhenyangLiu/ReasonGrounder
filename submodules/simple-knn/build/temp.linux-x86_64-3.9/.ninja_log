@@ -1,0 +1,4 @@
+# ninja log v5
+0	6343	1725609703064519847	/home/user/LZY/SegAnyGAussians/submodules/simple-knn/build/temp.linux-x86_64-3.9/simple_knn.o	69c55f46ab677212
+0	11776	1725609708496653040	/home/user/LZY/SegAnyGAussians/submodules/simple-knn/build/temp.linux-x86_64-3.9/ext.o	560c1cb6d8cf5ffb
+0	28461	1725609725181062128	/home/user/LZY/SegAnyGAussians/submodules/simple-knn/build/temp.linux-x86_64-3.9/spatial.o	157e7cb4aa8f7b41
